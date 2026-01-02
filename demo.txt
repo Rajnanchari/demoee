@@ -1,0 +1,21 @@
+i am try to push data local to remote by using visual studio code 
+
+i flow few steps :
+
+1)create a file next i open the in visual studio here i open teriminal next git int ,git add . , git 
+commit -m "rdf"
+next 
+   go to git hub create new repository
+             
+             back to teriminal 
+             git remote add origin url (repository add here)
+
+             entry
+
+             git push origin master 
+
+             (here code push to remote)
+             git push --set-upsteam origin master(use the commands check)
+
+
+             
